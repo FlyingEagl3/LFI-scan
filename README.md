@@ -1,1 +1,1 @@
-# LFI-scan
+# Payloads for LFI-scan
